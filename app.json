@@ -1,0 +1,7 @@
+{
+  "name": "CityConnected",
+  "description": "NodeJS app utilizing NYT API",
+  "repository": "https://github.com/barreyro/cityconnected",
+  "keywords": ["node", "express", "nyt"]
+}
+ 
